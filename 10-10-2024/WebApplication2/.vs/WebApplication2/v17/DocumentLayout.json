@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\controllers\\emptytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\emptytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|c:\\users\\administrator\\source\\repos\\10-10-2024\\webapplication2\\webapplication2\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B010B5F1-6FE3-4AF5-897E-077859682000}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:09:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:11:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:09:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:18:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:32:53.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmptyTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\EmptyTest.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\EmptyTest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\EmptyTest.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\EmptyTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:37:03.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\Test.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Test.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\10-10-2024\\WebApplication2\\WebApplication2\\Controllers\\Test.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Test.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:33:32.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

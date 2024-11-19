@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SIlQEtV26ndlZ5kCEZEYoS2uQisOggRoVdejTAhlRTY=",
+  "Source": "OurHeroWebAPI",
+  "BasePath": "_content/OurHeroWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

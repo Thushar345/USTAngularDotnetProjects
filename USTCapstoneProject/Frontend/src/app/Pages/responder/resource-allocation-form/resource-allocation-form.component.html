@@ -1,0 +1,61 @@
+
+<nav class="navbar">
+  <div class="logo">
+    <a routerLink="/"><img src="assets/logo.png" alt="My Logo" width="90"></a>
+  </div>
+  
+  <div class="nav-links">
+    <ul>
+      <li><a routerLink="/app-incident-display" class="btn">Incidents List</a></li>
+      <li><a routerLink="/app-resource-avl" class="btn">Resource Availiable</a></li>
+      <li><a routerLink="/app-resource-allocation" class="btn">Resources Allocated</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<div class="form-container">
+  <div class="form-header text-center">
+    <h2>Resource Allocation Form</h2>
+  </div>
+  <form id="resourceAllocationForm" class="styled-form">
+    
+
+    <div class="form-group">
+      <label for="resourceName">Resource Name:</label>
+      <select
+        [(ngModel)]="resourceAllocationObj.resourceId"
+        class="form-control"
+        id="resourceName"
+        name="resourceName"
+        required
+      >
+        <option value="" disabled selected>Select a Resource</option>
+        <option *ngFor="let resource of resources" [value]="resource.resourceId">
+          {{ resource.resourceName }} (Available: {{ resource.numberOfAvailable }})
+        </option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="quantityAllocated">Quantity Allocated:</label>
+      <input
+        type="number"
+        [(ngModel)]="resourceAllocationObj.quantityAllocated"
+        class="form-control"
+        id="quantityAllocated"
+        name="quantityAllocated"
+        required
+      />
+    </div>
+
+    <button
+      type="submit"
+      class="btn btn-primary btn-block"
+      (click)="onSubmit()"
+    >
+      Submit
+    </button>
+  </form>
+</div>

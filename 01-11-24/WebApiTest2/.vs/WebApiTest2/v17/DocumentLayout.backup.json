@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|c:\\users\\administrator\\source\\repos\\01-11-24\\webapitest2\\webapitest2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8032C13-4AE7-41DC-A13B-254120EC0FF6}|WebApiTest2\\WebApiTest2.csproj|solutionrelative:webapitest2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApiTest2\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApiTest2\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:41:10.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApiTest2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApiTest2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:23:22.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "WebApiTest2\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\JwtSettings.cs",
+              "RelativeToolTip": "WebApiTest2\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:08:47.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiTest2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Program.cs",
+              "RelativeToolTip": "WebApiTest2\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:45:29.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiTest2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\appsettings.json",
+              "RelativeToolTip": "WebApiTest2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T12:37:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiTest2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\01-11-24\\WebApiTest2\\WebApiTest2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiTest2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:28:35.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

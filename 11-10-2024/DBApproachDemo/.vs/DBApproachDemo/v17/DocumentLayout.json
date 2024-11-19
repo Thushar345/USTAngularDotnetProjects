@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|c:\\users\\administrator\\source\\repos\\11-10-2024\\dbapproachdemo\\dbapproachdemo\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|solutionrelative:dbapproachdemo\\controllers\\tblstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|c:\\users\\administrator\\source\\repos\\11-10-2024\\dbapproachdemo\\dbapproachdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|solutionrelative:dbapproachdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|c:\\users\\administrator\\source\\repos\\11-10-2024\\dbapproachdemo\\dbapproachdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|solutionrelative:dbapproachdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|c:\\users\\administrator\\source\\repos\\11-10-2024\\dbapproachdemo\\dbapproachdemo\\dbapproachdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|solutionrelative:dbapproachdemo\\dbapproachdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|c:\\users\\administrator\\source\\repos\\11-10-2024\\dbapproachdemo\\dbapproachdemo\\models\\uststudentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF960A85-F175-4945-BC0B-AB5430551E53}|DBApproachDemo\\DBApproachDemo.csproj|solutionrelative:dbapproachdemo\\models\\uststudentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TblStudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Controllers\\TblStudentsController.cs",
+              "RelativeDocumentMoniker": "DBApproachDemo\\Controllers\\TblStudentsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Controllers\\TblStudentsController.cs",
+              "RelativeToolTip": "DBApproachDemo\\Controllers\\TblStudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:19:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBApproachDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\DBApproachDemo.csproj",
+              "RelativeDocumentMoniker": "DBApproachDemo\\DBApproachDemo.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\DBApproachDemo.csproj",
+              "RelativeToolTip": "DBApproachDemo\\DBApproachDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T12:05:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UstStudentsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Models\\UstStudentsContext.cs",
+              "RelativeDocumentMoniker": "DBApproachDemo\\Models\\UstStudentsContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Models\\UstStudentsContext.cs",
+              "RelativeToolTip": "DBApproachDemo\\Models\\UstStudentsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:13:51.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "DBApproachDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\appsettings.json",
+              "RelativeToolTip": "DBApproachDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:11:46.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DBApproachDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\11-10-2024\\DBApproachDemo\\DBApproachDemo\\Program.cs",
+              "RelativeToolTip": "DBApproachDemo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:07:26.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

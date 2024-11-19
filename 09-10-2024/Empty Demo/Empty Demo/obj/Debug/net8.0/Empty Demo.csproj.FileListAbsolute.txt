@@ -1,0 +1,25 @@
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\Empty Demo.exe
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\Empty Demo.deps.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\Empty Demo.runtimeconfig.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\Empty Demo.dll
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\bin\Debug\net8.0\Empty Demo.pdb
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets\msbuild.Empty Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Empty Demo.props
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Empty Demo.props
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Empty Demo.props
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\scopedcss\bundle\Empty Demo.styles.css
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.dll
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\refint\Empty Demo.dll
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.pdb
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\Empty Demo.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\09-10-2024\Empty Demo\Empty Demo\obj\Debug\net8.0\ref\Empty Demo.dll

@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to bottom, #add8e6, #b2e0b2, #c2ffff);
+    padding: 30px;
+    height: 100vh;
+}
+
+.form-container{
+    width: 25%;
+    margin: auto;
+    border: #ffe4fb;
+    border-radius: 20px;
+    border-style:groove;
+    background-color: aliceblue;
+}
+
+h2{
+    margin-top: 10px;
+}
+    
+
+form{
+    padding: 15px;
+    
+}
+
+button{
+    display: block;
+    margin: 12px auto;  
+}
